@@ -11,7 +11,13 @@ name:
 postnominals:
   - "MSc"
 role: "PhD Researcher"
-bio: "I’m a PhD researcher investigating the use of machine learning in large datasets to address depression heterogeneity across the life course. My project is part of the UKRI AI CDT for Biomedical Innovation programme."
+bio: "I'm a PhD researcher investigating the use of machine learning in large datasets to address depression heterogeneity across the life course. My project is part of the UKRI AI CDT for Biomedical Innovation programme.
+  
+  I have a background in engineering, with a BEng degree in Electronics Engineering from Durham University and an MSc in Human and Biological Robotics from Imperial College London. For my Master's thesis, I developed a phone app to monitor and support children and young people's mental health during the COVID-19 lockdowns. 
+
+  Between my MSc and PhD, I worked in technical communications for software products, first as a Technical Writer at Microsoft, then as a Documentation Engineer at Imagination Technologies.
+
+  I'm passionate about technology, healthcare, writing, dogs, and coffee."
 affiliations:
   - name: "University of Edinburgh | UKRI AI CDT for Biomedical Innovation"
     url: "https://ai4bi-cdt.ed.ac.uk/"
@@ -38,6 +44,7 @@ education:
   - degree: "PhD AI for Biomedical Innovation"
     institution: "University of Edinburgh"
     start: "2024-09"
+    end: "Present"
     summary: "Investigating the use of machine learning in large datasets to address depression heterogeneity across the life course.\n"
     # button:
     #   text: "Download dissertation"
@@ -48,7 +55,7 @@ education:
     start: "2019-09"
     end: "2020-09"
     summary: "Interdisciplinary course covering biomedical engineering, AI and neuroscience, with a focus on the application of robotics in healthcare and everyday life."
-  - degree: "BEng Electronics Engineering | General Engineering"
+  - degree: "BEng General Engineering"
     institution: "Durham University"
     start: "2016-09"
     end: "2019-07"

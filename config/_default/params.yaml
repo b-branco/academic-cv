@@ -7,7 +7,9 @@ hugoblox:
     description: PhD Researcher in AI for Psychiatry at the University of Edinburgh UKRI AI CDT for Biomedical Innovation
   theme:
     mode: system
-    pack: contrast
+    pack:
+      light: "default"
+      dark: "synthwave"
     colors:
       primary: ""
       secondary: ""
