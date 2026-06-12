@@ -11,13 +11,10 @@ name:
 postnominals:
   - "MSc"
 role: "PhD Researcher"
-bio: "I'm a PhD researcher investigating the use of machine learning in large datasets to address depression heterogeneity across the life course. My project is part of the UKRI AI CDT for Biomedical Innovation programme.
-  
-  I have a background in engineering, with a BEng degree in Electronics Engineering from Durham University and an MSc in Human and Biological Robotics from Imperial College London. For my Master's thesis, I developed a phone app to monitor and support children and young people's mental health during the COVID-19 lockdowns. 
-
-  Between my MSc and PhD, I worked in technical communications for software products, first as a Technical Writer at Microsoft, then as a Documentation Engineer at Imagination Technologies.
-
-  I'm passionate about technology, healthcare, writing, dogs, and coffee."
+bio: "I'm a PhD researcher investigating the use of machine learning in large datasets to address depression heterogeneity across the life course. My project is part of the UKRI AI CDT for Biomedical Innovation programme.\n\n
+  I have a background in engineering, with a BEng degree in Electronics Engineering from Durham University and an MSc in Human and Biological Robotics from Imperial College London. For my Master's thesis, I developed a phone app to monitor and support children and young people's mental health during the COVID-19 lockdowns.\n\n
+  Before starting my PhD, I worked in technical communications for software products, first as a Technical Writer at Microsoft, then as a Documentation Engineer at Imagination Technologies.\n\n
+  Outside of work and studies, I enjoy playing videogames, writing, and taking my very spoiled dog on nature walks."
 affiliations:
   - name: "University of Edinburgh | UKRI AI CDT for Biomedical Innovation"
     url: "https://ai4bi-cdt.ed.ac.uk/"
@@ -59,21 +56,27 @@ education:
     institution: "Durham University"
     start: "2016-09"
     end: "2019-07"
+    summary: "Specialised in electronics engineering while gaining a broad foundation across mechanical, electrical, and computational engineering disciplines."
 experience:
   - role: "Documentation and Deployment Engineer"
     org: "Imagination Technologies"
     start: "2023-05"
     end: "2023-12"
     summary: "Responsible for the documentation and deployment of the PowerVR developer GPU tools and SDK.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
+    # button:
+    #   text: "View portfolio"
+    #   url: "/"
+    #   icon: "hero/arrow-down-tray"
   - role: "Technical Writer"
     org: "Microsoft"
     start: "2021-09"
     end: "2023-04"
     summary: "Delivered user-focused, accessible and concise documentation for technically complex software products in the telecoms industry.\n"
+  - role: "Research Intern"
+    org: "Durham University School of Engineering and Computing Sciences"
+    start: "2018-07"
+    end: "2018-09"
+    summary: "Summer internship on Evolution-in-materio. Performed experiments with a Matlab program to simulate the behaviour of a network of carbon nanotubes upon being trained by an evolutionary algorithm and added new functionalities to the code to allow for the modelling of more complex materials.\n"
 skills:
   - name: "Technical Skills"
     items:
@@ -81,26 +84,26 @@ skills:
         level: 5
       - label: "Machine Learning"
         level: 5
-      - label: "Cloud Computing"
-        level: 4
+      # - label: "Cloud Computing"
+      #   level: 4
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
         level: 5
       - label: "Conference Presentations"
         level: 4
-      - label: "Grant Proposals"
-        level: 4
+      # - label: "Grant Proposals"
+      #   level: 4
 languages:
   - name: "English"
     level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
     label: "Fluent"
+  - name: "Portuguese"
+    level: 5
+    label: "Native"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  # - title: "Best Paper Award"
+  #   awarder: "NeurIPS"
+  #   date: "2022-12-01"
+  #   summary: "Awarded for groundbreaking work on efficient training of large models."
+  #   icon: "hero/trophy"
